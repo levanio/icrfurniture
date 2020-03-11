@@ -1,0 +1,205 @@
+* {
+
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.butoni {
+
+  border-left:0px;
+ border-top-right-radius: 35px 35px;
+ border-bottom-right-radius: 35px 35px;
+ height: 60px;
+ background-color: #F1F1F1;
+ padding-right: 11px;
+
+
+
+    }
+    .btn-default:hover {
+
+      background-color: #F1F1F1;
+
+
+
+        }
+
+    .shd {
+      outline: none !important;
+      box-shadow: none;
+    border-top-left-radius: 35px 35px;
+    border-bottom-left-radius: 35px 35px;
+    border-right:0px;
+    height: 60px;
+     background-color: #F1F1F1;
+
+     border-color: #CCCCCC;
+
+
+    }
+
+    .shd:active  {
+      border-color: #CCCCCC;
+      outline: none !important;
+      border: 0px;
+      box-shadow: none !important;
+
+    }
+
+
+
+.navbar-nav {
+  font-size: 1.65em;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  justify-content: center;
+
+
+
+
+}
+
+#md-12 {
+  margin-top: 15px;;
+
+  display: flex; justify-content: center;
+
+}
+.navbar-nav li a {
+
+  color: black;
+  text-align: center;
+  background-color: transparent;
+
+
+
+
+}
+
+
+#bell {
+  margin-left:15px;
+
+font-size: 35px;
+background: #F1F1F1;
+width: 49px;
+border-radius: 100%;
+padding: 6px 6px;
+color: #010101b4;
+
+}
+#heart {
+
+  font-size: 35px;;
+  margin-left:15px;
+  color: #010101b4;
+
+}
+#folder {
+  font-size: 35px;
+  color: #010101b4;
+
+  margin-left:15px;
+
+}
+#cart {
+  font-size: 35px;
+  margin-left: 25px;
+  border: 1px solid gray;
+  width: 55px;
+  color: #010101b4;
+
+  border-radius: 100%;
+  padding: 8px 8px;
+
+
+}
+#searchc {
+  font-size: 30px;
+
+
+}
+
+
+.gacentreba {
+
+
+  display: flex; align-items: center;
+
+
+
+}
+.avtoriz {
+
+
+
+  width: 200px;
+  font-size: 18px;
+  border: 1px solid black;
+  height: 60px;
+  border-radius: 50px;
+  background-color: white;
+}
+.avtoriz:hover {
+  background-color: #F1F1F1;
+
+
+}
+
+.avtoriza {
+background-color: white;
+}
+
+
+.logo {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+
+  font-size: 32px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900px;
+  font-weight: bold;
+  color: black;
+
+}
+.logo a {
+text-decoration: none;
+
+  color: black;
+}
+.containerzeda {
+  height: 60px;
+}
+.ena {
+
+  margin-left: 37px;
+  font-size: 18px;
+}
+
+#enasi {
+
+  background-color:white; color:black; border:0px;
+
+}
+
+.ena a {
+  color: black;
+}
+.mitana {
+
+  margin-right: 50px;
+  font-size: 18px;
+
+}
+.mitana a {
+  color: #010101b4;
+
+  margin-right: 50px;
+
+}
+
